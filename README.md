@@ -1,3 +1,2 @@
 # cprograms
-Basic c programs iugkubkjbv
-Asham Bisham
+Basic c programs to practice
