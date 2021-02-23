@@ -12,7 +12,7 @@
               while(i<n)  {
                 while(j<m){
                   printf("enter for %d row\n",i);
-                
+                  printf("enter for %d column\n",j);
                 scanf("%d",&a[i][j]);
                 j++;
                 }
